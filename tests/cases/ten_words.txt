@@ -1,0 +1,1 @@
+(cat)+(car)+(can)+(bat)+(bar)+(ban)+(at)+(an)+(art)+(ant)
